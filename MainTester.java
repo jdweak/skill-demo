@@ -6,6 +6,6 @@ public class MainTester {
     
     @Test
     public void testSubtract(){
-        assertEquals(0, Main.subtract(4, 3));
+        assertEquals(0, Main.subtract(4, 4));
     }
 }
